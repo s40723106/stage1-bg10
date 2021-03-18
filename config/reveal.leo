@@ -22,8 +22,33 @@
 <v t="leo.20200818170535.1"><vh>slide 2</vh></v>
 <v t="leo.20200818170636.1"><vh>slide3</vh>
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
+<v t="leo.20210319050529.1"><vh>newHeadline</vh></v>
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
 <v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
+<v t="leo.20210319050553.1"><vh>newHeadline</vh></v>
+<v t="leo.20210319050556.1"><vh>newHeadline</vh></v>
+<v t="leo.20210319050555.1"><vh>newHeadline</vh></v>
+<v t="leo.20210319050556.2"><vh>newHeadline</vh></v>
+<v t="leo.20210319050556.3"><vh>newHeadline</vh></v>
+<v t="leo.20210319050556.4"><vh>newHeadline</vh></v>
+<v t="leo.20210319050556.5"><vh>newHeadline</vh></v>
+<v t="leo.20210319050556.6"><vh>newHeadline</vh></v>
+<v t="leo.20210319050557.1"><vh>newHeadline</vh></v>
+<v t="leo.20210319050557.2"><vh>newHeadline</vh></v>
+<v t="leo.20210319050557.3"><vh>newHeadline</vh></v>
+<v t="leo.20210319053053.1"><vh>newHeadline</vh></v>
+<v t="leo.20210319053728.1"><vh>newHeadline</vh></v>
+<v t="leo.20210319053847.1"><vh>newHeadline</vh></v>
+<v t="leo.20210319053958.1"><vh>newHeadline</vh></v>
+<v t="leo.20210319054103.1"><vh>newHeadline</vh></v>
+<v t="leo.20210319054237.1"><vh>newHeadline</vh></v>
+<v t="leo.20210319054335.1"><vh>&lt;section&gt;</vh></v>
+<v t="leo.20210319054444.1"><vh>newHeadline</vh></v>
+<v t="leo.20210319054553.1"><vh>newHeadline</vh></v>
+<v t="leo.20210319054650.1"><vh>newHeadline</vh></v>
+<v t="leo.20210319054753.1"><vh>newHeadline</vh></v>
+<v t="leo.20210319054907.1"><vh>newHeadline</vh></v>
+<v t="leo.20210319055114.1"><vh>newHeadline</vh></v>
 </v>
 <v t="leo.20200818170725.1"><vh>slide 4</vh></v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
@@ -34,11 +59,11 @@
 <v t="leo.20200818171412.1"><vh>slide 10</vh></v>
 <v t="leo.20200818194721.1"><vh>slide 11</vh></v>
 <v t="leo.20200818194751.1"><vh>slide 12</vh></v>
+<v t="leo.20200818194840.1"><vh>slide 14</vh></v>
 <v t="leo.20200818194812.1"><vh>slide 13</vh>
 <v t="leo.20200818194908.1"><vh>slide 13-1</vh></v>
 <v t="leo.20200818194933.1"><vh>slide 13-2</vh></v>
 </v>
-<v t="leo.20200818194840.1"><vh>slide 14</vh></v>
 <v t="leo.20200818195039.1"><vh>slide 15</vh></v>
 <v t="leo.20200818195105.1"><vh>slide 16</vh>
 <v t="leo.20200818195213.1"><vh>slide 16-1</vh></v>
@@ -208,21 +233,23 @@ vertical: body pane on the botton</t>
     @others
 &lt;/div&gt;</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
-    &lt;a href="https://revealjs.com"&gt;
-        &lt;img src="https://static.slid.es/reveal/logo-v1/reveal-white-text.svg" alt="reveal.js logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
-    &lt;/a&gt;
-    &lt;h3&gt;The HTML Presentation Framework&lt;/h3&gt;
+   
+    &lt;h1&gt;協同產品設計實習&lt;/h1&gt;
+    &lt;h2&gt;防鴿網報告&lt;/h2&gt;
+    &lt;h5  class="fragment"&gt;組員40723106王昱翔  &lt;a href="https://s40723106.github.io/cd2021/content/index.html"&gt;網站&lt;/a&gt; &lt;a href="https://github.com/s40723106/cd2021"&gt;倉儲&lt;/a&gt;&lt;/h5&gt;
+    &lt;h6 class="fragment"&gt;組員40723143詹益任 &lt;a href="https://s40723143.github.io/cd2021/content/index.html"&gt;網站&lt;/a&gt; &lt;a href="https://github.com/s40723143/cd2021"&gt;倉儲&lt;/a&gt;&lt;/h6&gt;
+    &lt;h6 class="fragment"&gt;組員40723139黃柏翰 &lt;a href="https://s40723139.github.io/cd2021/content/index.html"&gt;網站&lt;/a&gt; &lt;a href="https://github.com/s40723139/cd2021"&gt;倉儲&lt;/a&gt;&lt;/h6&gt;
     &lt;p&gt;
-        &lt;small&gt;Created by &lt;a href="http://hakim.se"&gt;Hakim El Hattab&lt;/a&gt; and &lt;a href="https://github.com/hakimel/reveal.js/graphs/contributors"&gt;contributors&lt;/a&gt;&lt;/small&gt;
-    &lt;/p&gt;
-&lt;/section&gt;
+    &lt;/section&gt;
+        
 
 </t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
-    &lt;h2&gt;Hello There&lt;/h2&gt;
-    &lt;p&gt;
-        reveal.js enables you to create beautiful interactive slide decks using HTML. This presentation will show you examples of what it can do.
+    &lt;h2&gt;創作動機&lt;/h2&gt;
+   &lt;p class="fragment"&gt;許多高樓窗台很多鴿子大便，造成我們的困擾，像&lt;p class="fragment"&gt;觀感不佳&lt;p class="fragment"&gt;很難清理&lt;p class="fragment"&gt;帶有疾病&lt;p class="fragment"&gt;於是我們想用市面常見的防鴿網加上電擊，來驅趕鴿子。
+    
     &lt;/p&gt;
+
 &lt;/section&gt;
 
 </t>
@@ -233,98 +260,169 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818170725.1">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
-    &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
-    &lt;/p&gt;
+    &lt;h2&gt;遇到問題&lt;/h2&gt;
+    &lt;h5&gt;
+        1.電池續航力?
+        2.防水性?
+        3.安裝位置被限制?
+    &lt;/h5&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
-    &lt;h2&gt;Vertical Slides&lt;/h2&gt;
-    &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
-    &lt;p&gt;Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.&lt;/p&gt;
-    &lt;br&gt;
+    &lt;h1&gt;零件圖&lt;/h1&gt;
+    &lt;p&gt;電池1.5V&lt;/p&gt;
     &lt;a href="#" class="navigate-down"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
+        &lt;img src="https://imagizer.imageshack.com/v2/640x480q90/922/6DmTvU.png" border="0"&gt;&lt;/a&gt;
     &lt;/a&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 1&lt;/h2&gt;
-    &lt;p&gt;Nested slides are useful for adding additional detail underneath a high level horizontal slide.&lt;/p&gt;
+    &lt;p&gt;Arduino.&lt;/p&gt;
+    &lt;a target="_blank" href="https://imageshack.com/i/po9R7Rywp"&gt;&lt;img src="https://imagizer.imageshack.com/v2/640x480q90/924/9R7Ryw.png" border="0"&gt;&lt;/a&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818171010.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 2&lt;/h2&gt;
-    &lt;p&gt;That's it, time to go back up.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#/2"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1); transform: rotate(180deg);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Up arrow"&gt;
-    &lt;/a&gt;
+    &lt;p&gt;背蓋&lt;/p&gt;
+&lt;a target="_blank" href="https://imageshack.com/i/pmZ2dgq9p"&gt;&lt;img src="https://imagizer.imageshack.com/v2/640x480q90/922/Z2dgq9.png" border="0"&gt;&lt;/a&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20200818171138.1">&lt;section data-auto-animate&gt;
-    &lt;h2 data-id="code-title"&gt;Pretty Code&lt;/h2&gt;
-    &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers&gt;
-        import React, { useState } from 'react';
-
-        function Example() {
-          const [count, setCount] = useState(0);
-
-          return (
-            ...
-          );
-        }
-    &lt;/code&gt;&lt;/pre&gt;
-    &lt;p&gt;Code syntax highlighting courtesy of &lt;a href="https://highlightjs.org/usage/"&gt;highlight.js&lt;/a&gt;.&lt;/p&gt;
+    &lt;h2&gt;解決方法&lt;/h2&gt;
+    &lt;p&gt;
+1.加裝超音波感測，有物體才通電。或換成鋰電池。2.架高下面有漏水孔。3.主要是跟網子有關，網子選定適當大小就可以適應多種地形。
+   &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818171215.1">&lt;section data-auto-animate&gt;
-    &lt;h2 data-id="code-title"&gt;With animations&lt;/h2&gt;
+    &lt;h2 data-id="code-title"&gt;Arduino程式碼&lt;/h2&gt;
     &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers="|4,8-11|17|22-24"&gt;
-        import React, { useState } from 'react';
+        /////////////////////////////////////套入函式庫///////////////////////////////////////////
+#include &lt;ESP8266WiFi.h&gt;
+ //////////////////////////////////WIFI相關設定////////////////////////////////////////
+const char* ssid = "Wi-Fi Name";    
+const char* password = "Password";   
+WiFiServer server(80);
+////////////////////////////////////宣告超音波變數///////////////////////////////////
+double dura;
+double dist;
+double disori;
+double times=0;
+String webstring;
+ ///////////////////////////////////宣告腳位/////////////////////////////////////////////
+int trig = 13;
+int echo = 15;
+///////////////////////////////////測定函式//////////////////////////////////////////////
+double measure(){
+  digitalWrite(7,HIGH);
+  delayMicroseconds(5);
+  digitalWrite(7,LOW);
+  dura=pulseIn(8,HIGH);
+  disori=((340*100)*dura*0.000001/2);
+  dist=sqrt((disori*disori)-1.3*1.3);
+  return dist;
+}
+ ////////////////////////////////////////////////////設定///////////////////////////////////////////
+void setup()
+{
+  Serial.begin(115200);
+  pinMode(trig, OUTPUT);
+pinMode(echo, INPUT);
+ 
+  Serial.print("Connecting to the Newtork");
+ Serial.println(ssid); 
+WiFi.begin(ssid, password);
+  while (WiFi.status() != WL_CONNECTED)
+{
+    delay(500);
+    Serial.print(".");
+ }
+Serial.println(“””);
+ Serial.println("WiFi connected"); 
+server.begin();
+ Serial.println(“Sever started”) ;
+Serial.println(WiFi.localIP());
+}
+//////////////////////////////////////////////程式執行/////////////////////////////////////////////////////////
+void loop()
+{
+ if ( measure()&gt;0){
+    Serial.println("Dove is Cominig");
+    times++;
+  } 
+WiFiClient client = server.available();
+  if (!client) {                            
+  return;
+    {
+Serial.println(“New client”);
+while(client.available()){
+delay(1);
+}
+String req=client.readStringUntil(‘\r’);
+Serial.println(req);
+client.flush();
+////////////////////////////////////HTML/////////////////////////////////////////////
+  client.println("HTTP/1.1 200 OK"); //
+  client.println("Content-Type: text/html");
+  client.println("");
+  client.println("&lt;!DOCTYPE HTML&gt;");
+  client.println("&lt;html&gt;");
+  client.print(" CONTROL LED: ");
+client.println("&lt;script type="text/javascript"&gt;");
+client.println("var i=0;");
+client.println("function count()"); 
+client.println("{"); 
+client.println("   i++;");
+client.println("   document.getElementById("count").innerHTML=i;");
 
-        function Example() {
-          const [count, setCount] = useState(0);
+client.println("}");
+client.println("&lt;/script&gt;");
+client.println("&lt;head &gt;");
+client.println("&lt;meta content='text/html;charset=UTF-8' http-equiv='Content-Type'/&gt; ");
+client.println("&lt;style&gt;");
+client.println("html");
+client.println("{ font-family: Helvetica; display: inline-block; margin: 0px auto; text-align: center;} ");
+  client.println(".button");
+client.println("{ background-color: red; border: none; color: white; padding: 16px 40px; ");
+client.println("text-decoration: none; font-size: 50px; margin: 10px; cursor: pointer;} ");
+client.println("html {");
+client.println("  background-color: cadetblue;");
+client.println("  background-size: cover;");
+client.println("}");
+client.println("div{");
+client.println("  width:1000px;");
+client.println("  height:600px;");
+client.println("  border:2px solid black;");
+client.println("  margin-top:200px;");
+client.println("  margin-left:500px;");
+client.println("  margin-bottom:100px;");
+client.println("  margin-right:100px;");
+client.println("}");
+client.println("&lt;/style&gt;");
+client.println("&lt;/head&gt; ");
+client.println("&lt;body&gt;");
+client.println("&lt;div&gt; ");
+client.println("    &lt;h1&gt;防飛禽駐留電網");
+client.println("    &lt;p&gt;飛禽停駐距離&lt;/p&gt; ");
+client.println("    &lt;p&gt; &lt;input type="number" id="r" &gt; &lt;/p&gt;");
+client.println("    &lt;p&gt;飛禽停駐次數&lt;/p&gt; ");
+client.println("       &lt;span font-size: 50px id="count"&gt;0&lt;/span&gt;&lt;br&gt;");
+client.println("&lt;p&gt;通電按鈕&lt;/p&gt; ");
+client.println("&lt;button class="button" onclick="count()" value="count"&gt;ON&lt;/button&gt;");
+client.println("&lt;/div&gt;");
+client.println("    &lt;/body&gt;");
+client.println("&lt;/html&gt;");
+  delay(1);
+  Serial.println("Client disonnected");
+  Serial.println("");
+}
 
-          return (
-            &amp;lt;div&amp;gt;
-              &amp;lt;p&amp;gt;You clicked {count} times&amp;lt;/p&amp;gt;
-              &amp;lt;button onClick={() =&amp;gt; setCount(count + 1)}&amp;gt;
-                Click me
-              &amp;lt;/button&amp;gt;
-            &amp;lt;/div&amp;gt;
-          );
-        }
-
-        function SecondExample() {
-          const [count, setCount] = useState(0);
-
-          return (
-            &amp;lt;div&amp;gt;
-              &amp;lt;p&amp;gt;You clicked {count} times&amp;lt;/p&amp;gt;
-              &amp;lt;button onClick={() =&amp;gt; setCount(count + 1)}&amp;gt;
-                Click me
-              &amp;lt;/button&amp;gt;
-            &amp;lt;/div&amp;gt;
-          );
-        }
     &lt;/code&gt;&lt;/pre&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818171244.1">&lt;section&gt;
-    &lt;h2&gt;Point of View&lt;/h2&gt;
-    &lt;p&gt;
-        Press &lt;strong&gt;ESC&lt;/strong&gt; to enter the slide overview.
-    &lt;/p&gt;
-    &lt;p&gt;
-        Hold down the &lt;strong&gt;alt&lt;/strong&gt; key (&lt;strong&gt;ctrl&lt;/strong&gt; in Linux) and click on any element to zoom towards it using &lt;a href="http://lab.hakim.se/zoom-js"&gt;zoom.js&lt;/a&gt;. Click again to zoom back out.
-    &lt;/p&gt;
-    &lt;p&gt;
-        (NOTE: Use ctrl + click in Linux.)
-    &lt;/p&gt;
+    &lt;h1&gt;End&lt;/h1&gt;
 &lt;/section&gt;
 
 </t>
@@ -647,6 +745,141 @@ console.log( '"customevent" has fired' );
         - &lt;a href="https://slides.com"&gt;Try the online editor&lt;/a&gt; &lt;br&gt;
         - &lt;a href="https://github.com/hakimel/reveal.js"&gt;Source code &amp;amp; documentation&lt;/a&gt;
     &lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210319050529.1">&lt;section&gt;
+
+    &lt;p&gt;背板&lt;/p&gt;
+    &lt;a target="_blank" href="https://imageshack.com/i/pmYl713tp"&gt;&lt;img src="https://imagizer.imageshack.com/v2/640x480q90/922/Yl713t.png" border="0"&gt;&lt;/a&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210319050553.1">&lt;section&gt;
+
+    &lt;p&gt;掀蓋&lt;/p&gt;
+    &lt;a target="_blank" href="https://imageshack.com/i/pnu23PE5p"&gt;&lt;img src="https://imagizer.imageshack.com/v2/640x480q90/923/u23PE5.png" border="0"&gt;&lt;/a&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210319050555.1">&lt;section&gt;
+    
+    &lt;p&gt;單主機MK3&lt;/p&gt;
+    &lt;a target="_blank" href="https://imageshack.com/i/po0mxVgCp"&gt;&lt;img src="https://imagizer.imageshack.com/v2/640x480q90/924/0mxVgC.png" border="0"&gt;&lt;/a&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210319050556.1">&lt;section&gt;
+    
+    &lt;p&gt;單主機MK2&lt;/p&gt;
+    &lt;a target="_blank" href="https://imageshack.com/i/poLOOhMqp"&gt;&lt;img src="https://imagizer.imageshack.com/v2/640x480q90/924/LOOhMq.png" border="0"&gt;&lt;/a&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210319050556.2">&lt;section&gt;
+
+    &lt;p&gt;電池蓋&lt;/p&gt;
+    &lt;a target="_blank" href="https://imageshack.com/i/pnt5eOsep"&gt;&lt;img src="https://imagizer.imageshack.com/v2/640x480q90/923/t5eOse.png" border="0"&gt;&lt;/a&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210319050556.3">&lt;section&gt;
+  
+    &lt;p&gt;主機背板&lt;/p&gt;
+    &lt;a target="_blank" href="https://imageshack.com/i/pno0JZRFp"&gt;&lt;img src="https://imagizer.imageshack.com/v2/640x480q90/923/o0JZRF.png" border="0"&gt;&lt;/a&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210319050556.4">&lt;section&gt;
+   
+    &lt;p&gt;鑽孔立柱&lt;/p&gt;
+  &lt;a target="_blank" href="https://imageshack.com/i/pnUY07lGp"&gt;&lt;img src="https://imagizer.imageshack.com/v2/640x480q90/923/UY07lG.png" border="0"&gt;&lt;/a&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210319050556.5">&lt;section&gt;
+    
+    &lt;p&gt;sd卡支架&lt;/p&gt;
+   &lt;a target="_blank" href="https://imageshack.com/i/poHyu4Cep"&gt;&lt;img src="https://imagizer.imageshack.com/v2/640x480q90/924/Hyu4Ce.png" border="0"&gt;&lt;/a&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210319050556.6">&lt;section&gt;
+    
+    &lt;p&gt;pp電擊部件&lt;/p&gt;
+   &lt;a target="_blank" href="https://imageshack.com/i/pnA05UKDp"&gt;&lt;img src="https://imagizer.imageshack.com/v2/640x480q90/923/A05UKD.png" border="0"&gt;&lt;/a&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210319050557.1">&lt;section&gt;
+    
+    &lt;p&gt;pp萬用板支架&lt;/p&gt;
+  &lt;a target="_blank" href="https://imageshack.com/i/pnjpmV5Vp"&gt;&lt;img src="https://imagizer.imageshack.com/v2/640x480q90/923/jpmV5V.png" border="0"&gt;&lt;/a&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210319050557.2">&lt;section&gt;
+    
+    &lt;p&gt;繼電支架&lt;/p&gt;
+ &lt;a target="_blank" href="https://imageshack.com/i/pm2LsZsTp"&gt;&lt;img src="https://imagizer.imageshack.com/v2/640x480q90/922/2LsZsT.png" border="0"&gt;&lt;/a&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210319050557.3">&lt;section&gt;
+    
+    &lt;p&gt;聲波支架&lt;/p&gt;
+&lt;a target="_blank" href="https://imageshack.com/i/pmGICaj4p"&gt;&lt;img src="https://imagizer.imageshack.com/v2/640x480q90/922/GICaj4.png" border="0"&gt;&lt;/a&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210319053053.1">&lt;section&gt;
+    
+    &lt;p&gt;SD caad&lt;/p&gt;
+  &lt;a target="_blank" href="https://imageshack.com/i/pn0MRzXyp"&gt;&lt;img src="https://imagizer.imageshack.com/v2/640x480q90/923/0MRzXy.png" border="0"&gt;&lt;/a&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210319053728.1">&lt;section&gt;
+    
+    &lt;p&gt;SP- M3&lt;/p&gt;
+  &lt;a target="_blank" href="https://imageshack.com/i/poUyfI8Vp"&gt;&lt;img src="https://imagizer.imageshack.com/v2/640x480q90/924/UyfI8V.png" border="0"&gt;&lt;/a&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210319053847.1">&lt;section&gt;
+    
+    &lt;p&gt;SP- M6&lt;/p&gt;
+&lt;a target="_blank" href="https://imageshack.com/i/pm5b7WuGp"&gt;&lt;img src="https://imagizer.imageshack.com/v2/640x480q90/922/5b7WuG.png" border="0"&gt;&lt;/a&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210319053958.1">&lt;section&gt;
+    
+    &lt;p&gt;SP- 短釘&lt;/p&gt;
+&lt;a target="_blank" href="https://imageshack.com/i/pmRIFz14p"&gt;&lt;img src="https://imagizer.imageshack.com/v2/640x480q90/922/RIFz14.png" border="0"&gt;&lt;/a&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210319054103.1">&lt;section&gt;
+    
+    &lt;p&gt;HCSR04&lt;/p&gt;
+&lt;a target="_blank" href="https://imageshack.com/i/pnM3YRG5p"&gt;&lt;img src="https://imagizer.imageshack.com/v2/640x480q90/923/M3YRG5.png" border="0"&gt;&lt;/a&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210319054237.1">&lt;section&gt;
+    
+    &lt;p&gt;萬用板&lt;/p&gt;
+&lt;a target="_blank" href="https://imageshack.com/i/poTLi9uop"&gt;&lt;img src="https://imagizer.imageshack.com/v2/640x480q90/924/TLi9uo.png" border="0"&gt;&lt;/a&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210319054335.1">&lt;section&gt;
+    
+    &lt;p&gt;91電池&lt;/p&gt;
+&lt;a target="_blank" href="https://imageshack.com/i/pmRlQW0Tp"&gt;&lt;img src="https://imagizer.imageshack.com/v2/640x480q90/922/RlQW0T.png" border="0"&gt;&lt;/a&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210319054444.1">&lt;section&gt;
+    
+    &lt;p&gt;電池盒&lt;/p&gt;
+&lt;a target="_blank" href="https://imageshack.com/i/pnDPSMS6p"&gt;&lt;img src="https://imagizer.imageshack.com/v2/640x480q90/923/DPSMS6.png" border="0"&gt;&lt;/a&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210319054553.1">&lt;section&gt;
+    
+    &lt;p&gt;電蚊拍電路&lt;/p&gt;
+&lt;a target="_blank" href="https://imageshack.com/i/poXbilq1p"&gt;&lt;img src="https://imagizer.imageshack.com/v2/640x480q90/924/Xbilq1.png" border="0"&gt;&lt;/a&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210319054650.1">&lt;section&gt;
+    
+    &lt;p&gt;組合圖&lt;/p&gt;
+&lt;a target="_blank" href="https://imageshack.com/i/pmz618Xap"&gt;&lt;img src="https://imagizer.imageshack.com/v2/640x480q90/922/z618Xa.png" border="0"&gt;&lt;/a&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210319054753.1">&lt;section&gt;
+    
+    &lt;p&gt;直網&lt;/p&gt;
+&lt;a target="_blank" href="https://imageshack.com/i/pm5yg793p"&gt;&lt;img src="https://imagizer.imageshack.com/v2/640x480q90/922/5yg793.png" border="0"&gt;&lt;/a&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210319054907.1">&lt;section&gt;
+    
+    &lt;p&gt;繼電器&lt;/p&gt;
+&lt;a target="_blank" href="https://imageshack.com/i/pof5XIyVp"&gt;&lt;img src="https://imagizer.imageshack.com/v2/640x480q90/924/f5XIyV.png" border="0"&gt;&lt;/a&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210319055114.1">&lt;section&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
